@@ -1,7 +1,4 @@
 # A
 aaaa
 
-<p align="center">
-  <img src="![avila](https://github.com/Leonard0black/A/assets/152276929/7e807e80-1440-4fe2-96cc-5866a2b1d704)" width="220" title="Universidad de Málaga">
-  &nbsp; &nbsp; &nbsp; &nbsp;
-
+![Uni - copia (1)](https://github.com/Leonard0black/A/assets/152276929/f5cc14e0-0985-46b4-ae1a-d2df5cb1b55d)
