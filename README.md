@@ -5,7 +5,10 @@
 Actividad 2: Git (en grupo) Repositorio usado para mejorar nuestras habilidades de trabajo con un equipo de programadores a través de git
 
 <p align="center">
-![Uni - copia (1)](https://github.com/Leonard0black/A/assets/152276929/f5cc14e0-0985-46b4-ae1a-d2df5cb1b55d)
+
+
+![Uni - copia (2)](https://github.com/Leonard0black/A/assets/152276929/a999950b-42bd-4e18-abd5-103cb64429b8)
+
 
 
   
